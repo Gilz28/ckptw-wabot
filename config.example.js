@@ -10,10 +10,10 @@ const {
 global.config = {
     // Informasi bot dasar
     bot: {
-        name: "CKPTW", // Nama bot
+        name: "Gilz-Botz", // Nama bot
         prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i, // Karakter awalan perintah yang diizinkan
-        phoneNumber: "", // Nomor telepon bot (opsional jika menggunakan QR code)
-        thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.png", // Gambar thumbnail bot
+        phoneNumber: "6285894104907", // Nomor telepon bot (opsional jika menggunakan QR code)
+        thumbnail: "https://uploader.nyxs.pw/tmp/Uzqma0-1732598326841.png", // Gambar thumbnail bot
         website: "https://chat.whatsapp.com/FlqTGm4chSjKMsijcqAIJs" // Website untuk WhatsApp bot
     },
 
