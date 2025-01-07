@@ -11,11 +11,11 @@ module.exports = {
         if (await handler(ctx, module.exports.handler)) return;
 
         return await ctx.reply(
-            `${quote("083838039693 (DANA)")}\n` +
-            `${quote("─────")}\n` +
-            `${quote("https://paypal.me/itsreimau (PayPal)")}\n` +
-            `${quote("https://saweria.co/itsreimau (Saweria)")}\n` +
-            `${quote("https://trakteer.id/itsreimau (Trakteer)")}\n` +
+            `${quote("085217871749 (DANA)")}\n` +
+            `${quote("AGIL AWALUDIN")}\n` +
+            `${quote("085894104907 (GOPAY)")}\n` +
+            `${quote("085894104907 (OVO)")}\n` +
+            `${quote("https://saweria.co/Gilzz28 (SAWERIA)")}\n` +
             "\n" +
             config.msg.footer
         ); // Dapat diubah sesuai keinginan Anda
